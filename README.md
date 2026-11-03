@@ -13,6 +13,7 @@
 | [1512-number-of-good-pairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
