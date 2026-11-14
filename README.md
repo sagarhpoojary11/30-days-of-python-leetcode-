@@ -15,10 +15,12 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2574-left-and-right-sum-differences](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/2574-left-and-right-sum-differences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1512-number-of-good-pairs) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/2574-left-and-right-sum-differences) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
