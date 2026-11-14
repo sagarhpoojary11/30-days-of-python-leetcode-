@@ -23,6 +23,7 @@
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1512-number-of-good-pairs) |
 | [0070-climbing-stairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -35,8 +36,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
