@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1512-number-of-good-pairs) |
+| [0070-climbing-stairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0070-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/1920-build-array-from-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sagarhpoojary11/30-days-of-python-leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
